@@ -22,6 +22,8 @@
 2.Charles Casper Stockham, received 23% of the total votes.
 3.Raymon Anthony Doane, only received 3.1% of the overall votes.
 
+link :https://github.com/pranavspatel/Election_Analysis/blob/main/election_result.png
+
 
 ## Election Audit Summary
 This script can be altered to find the most number of votes for different filters other than candidates and county. If the data included other characteristics, such as demographics and location, the code can be modified to include these characteristics and further analysis can be done.
