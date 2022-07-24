@@ -1,4 +1,3 @@
-# -*- coding: UTF-8 -*-
 """PyPoll Homework Challenge Solution."""
 
 # Add our dependencies.
@@ -123,6 +122,7 @@ with open(file_to_save, "w") as txt_file:
         f"----------------------------------------\n"
         f"Largest County Turnout: {largest_county_voters}\n"
         f"----------------------------------------\n")
+    print(largest_county_results,end="")
 
 
     # 8: Save the county with the largest turnout to a text file.
